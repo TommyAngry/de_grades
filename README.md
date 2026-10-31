@@ -34,3 +34,4 @@
    ```bash
    cd C:\xampp\htdocs
    git clone https://github.com/TommyAngry/de_grades.git
+# Для работы рекомендуется ознакомиться с папкой READ_STUDENTS
